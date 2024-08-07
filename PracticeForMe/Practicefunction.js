@@ -81,3 +81,17 @@ const double = multiplir(2);
 const triple = multiplir(3);
 console.log(double(5));
 console.log(triple(5));
+
+
+// output will be this code ::
+
+PS D:\My_space.com\javaScript> node "d:\My_space.com\javaScript\JsHwcourse\days5HwFunction.js"
+50
+5
+Hello, my name is Alice and I am 25 years old.
+Hello, my name is Bob and I am 30 years old.
+1,2,3,4,5  * 2 = 2,4,6,8,10
+10
+15
+PS D:\My_space.com\javaScript> 
+ 
